@@ -6,7 +6,7 @@ A mobile application for managing university equipment and assets, built with **
 
 ## 📱 Screenshots
 
-> *(Add your screenshots here — you already have flutter_01.png to flutter_11.png in the repo)*<img width="489" height="888" alt="image" src="https://github.com/user-attachments/assets/7bfaba74-90be-4909-8536-72427b1b57fc" />
+> *(Add your screenshots here — you already have flutter_01.png to flutter_11.png in the repo)*
 
 
 -----
