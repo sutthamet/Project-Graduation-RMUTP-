@@ -22,7 +22,7 @@ A mobile application for managing university assets and equipment, built with Fl
 
 ## 🎯 About the Project
 
-Universities often struggle to track equipment across buildings — who borrowed what, where things are located, and when something needs repair. **MOBILE ASSET MANAGEMENT APPLICATION** (Karupan App) solves this by providing a centralized digital system for asset tracking, inspection, and maintenance requests.
+Universities often struggle to track equipment across buildings — who borrowed what, where things are located, and when something needs repair. **MOBILE ASSET MANAGEMENT APPLICATION** solves this by providing a centralized digital system for asset tracking, inspection, and maintenance requests.
 
 -----
 
