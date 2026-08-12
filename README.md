@@ -22,7 +22,7 @@ A mobile application for managing university assets and equipment, built with Fl
 
 ## 🎯 About the Project
 
-Universities often struggle to track equipment across buildings — who borrowed what, where things are located, and when something needs repair. **MOBILE ASSET MANAGEMENT APPLICATION solves this problem** solves this by providing a centralized digital system for asset tracking, movement logging, and maintenance requests.
+Universities often struggle to track equipment across buildings — who borrowed what, where things are located, and when something needs repair. **MOBILE ASSET MANAGEMENT APPLICATION** solves this by providing a centralized digital system for asset tracking, inspection, and maintenance requests.
 
 -----
 
@@ -31,7 +31,8 @@ Universities often struggle to track equipment across buildings — who borrowed
 - 📦 **Asset Management** — Add, edit, and track university equipment with detailed records
 - 🔍 **Asset Inspection** — Record and review equipment inspection history
 - 🔧 **Repair Request System** — Users can report damaged equipment directly in the app
-- 📋 **History & Audit Trail** — Full history of every asset action for accountability
+- 📍 **Asset Location Management** — Manage and update the current room or location of each asset
+- 📋 **History & Audit Trail** — Track asset inspection, repair, and room movement history for accountability
 - 🔐 **Role-Based Access Control** — Two roles with different permissions:
   - **Admin** (Lecturers / Technicians) — Full access: manage assets, approve requests, assign/revoke user roles
   - **User** (Students / General Staff) — Can view assets and submit repair reports
@@ -126,4 +127,4 @@ This project was developed as a **graduation project** for the Bachelor of Engin
 
 **Sutthamet**
 
-- GitHub: [@Rukhub](https://github.com/Rukhub)
+- GitHub: [@sutthamet](https://github.com/sutthamet)
