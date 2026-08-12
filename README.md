@@ -10,9 +10,13 @@ A mobile application for managing university equipment and assets, built with **
 |:---:|:---:|
 | <img src="assets/screenshots/dashboard.png" width="300"> | <img src="assets/screenshots/asset-list.png" width="300"> |
 
-| QR Scanner | Repair Request |
+| Asset Detail | QR Scanner |
 |:---:|:---:|
-| <img src="assets/screenshots/qr-scanner.png" width="300"> | <img src="assets/screenshots/repair-request.png" width="300"> |
+| <img src="assets/screenshots/asset-detail.png" width="300"> | <img src="assets/screenshots/qr-scanner.png" width="300"> |
+
+| Repair Request | Repair History |
+|:---:|:---:|
+| <img src="assets/screenshots/repair-request.png" width="300"> | <img src="assets/screenshots/repair-history.png" width="300"> |
 
 
 
