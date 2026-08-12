@@ -22,14 +22,14 @@ A mobile application for managing university assets and equipment, built with Fl
 
 ## 🎯 About the Project
 
-Universities often struggle to track equipment across buildings — who borrowed what, where things are located, and when something needs repair. **KARUPAN** solves this by providing a centralized digital system for asset tracking, movement logging, and maintenance requests.
+Universities often struggle to track equipment across buildings — who borrowed what, where things are located, and when something needs repair. **MOBILE ASSET MANAGEMENT APPLICATION solves this problem** solves this by providing a centralized digital system for asset tracking, movement logging, and maintenance requests.
 
 -----
 
 ## ✨ Features
 
 - 📦 **Asset Management** — Add, edit, and track university equipment with detailed records
-- 🔄 **Asset Movement Tracking** — Log and view the movement history of each item across locations
+- 🔍 **Asset Inspection** — Record and review equipment inspection history
 - 🔧 **Repair Request System** — Users can report damaged equipment directly in the app
 - 📋 **History & Audit Trail** — Full history of every asset action for accountability
 - 🔐 **Role-Based Access Control** — Two roles with different permissions:
@@ -79,7 +79,7 @@ tools/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/Rukhub/Project-Graduation-RMUTP-.git
+git clone https://github.com/Sutthamet/Project-Graduation-RMUTP-.git
 cd Project-Graduation-RMUTP-
 
 # 2. Install dependencies
