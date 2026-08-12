@@ -1,4 +1,4 @@
-# 🏫 MOBILE ASSET MANAGEMENT APPLICATION
+# 🏫 MOBILE ASSET MANAGEMENT APPLICATION (Karupan App)
 
 A mobile application for managing university assets and equipment, built with Flutter and Firebase. Developed as a graduation project at RMUTP (Rajamangala University of Technology Phra Nakhon), Computer Engineering Department.
 
@@ -22,7 +22,7 @@ A mobile application for managing university assets and equipment, built with Fl
 
 ## 🎯 About the Project
 
-Universities often struggle to track equipment across buildings — who borrowed what, where things are located, and when something needs repair. **MOBILE ASSET MANAGEMENT APPLICATION** solves this by providing a centralized digital system for asset tracking, inspection, and maintenance requests.
+Universities often struggle to track equipment across buildings — who borrowed what, where things are located, and when something needs repair. **MOBILE ASSET MANAGEMENT APPLICATION** (Karupan App) solves this by providing a centralized digital system for asset tracking, inspection, and maintenance requests.
 
 -----
 
@@ -32,7 +32,7 @@ Universities often struggle to track equipment across buildings — who borrowed
 - 🔍 **Asset Inspection** — Record and review equipment inspection history
 - 🔧 **Repair Request System** — Users can report damaged equipment directly in the app
 - 📍 **Asset Location Management** — Manage and update the current room or location of each asset
-- 📋 **History & Audit Trail** — Track asset inspection, repair, and room movement history for accountability
+- 📋 **History & Audit Trail** — Track asset inspection and repair history for accountability
 - 🔐 **Role-Based Access Control** — Two roles with different permissions:
   - **Admin** (Lecturers / Technicians) — Full access: manage assets, approve requests, assign/revoke user roles
   - **User** (Students / General Staff) — Can view assets and submit repair reports
