@@ -80,8 +80,8 @@ tools/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/Sutthamet/Project-Graduation-RMUTP-.git
-cd Project-Graduation-RMUTP-
+git clone https://github.com/sutthamet/Mobile-Asset-Management.git
+cd Mobile-Asset-Management
 
 # 2. Install dependencies
 flutter pub get
@@ -125,6 +125,6 @@ This project was developed as a **graduation project** for the Bachelor of Engin
 
 ## 👤 Author
 
-**Sutthamet**
-
+**Sutthamet Sutthikun**
 - GitHub: [@sutthamet](https://github.com/sutthamet)
+- Email: sutthamet.4869@gmail.com
