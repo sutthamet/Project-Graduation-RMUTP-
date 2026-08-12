@@ -1,4 +1,4 @@
-# 🏫 MOBILE ASSET MANAGEMENT APPLICATION (Karupan App)
+# 🏫 MOBILE ASSET MANAGEMENT APPLICATION 
 
 A mobile application for managing university assets and equipment, built with Flutter and Firebase. Developed as a graduation project at RMUTP (Rajamangala University of Technology Phra Nakhon), Computer Engineering Department.
 
