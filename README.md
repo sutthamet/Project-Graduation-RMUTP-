@@ -14,6 +14,9 @@ A mobile application for managing university equipment and assets, built with **
 |:---:|:---:|:---:|
 | <img src="assets/screenshots/qr-scanner.png" width="220"> | <img src="assets/screenshots/repair-request.png" width="220"> | <img src="assets/screenshots/repair-history.png" width="220"> |
 
+| Issue Queue | User Approval | CSV Import |
+|:---:|:---:|:---:|
+| <img src="assets/screenshots/issue-queue.png" width="220"> | <img src="assets/screenshots/user-approval.png" width="220"> | <img src="assets/screenshots/csv-import.png" width="220"> |
 
 
 
