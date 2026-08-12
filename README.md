@@ -16,8 +16,7 @@ A mobile application for managing university assets and equipment, built with Fl
 
 | Issue Queue | User Approval | CSV Import |
 |:---:|:---:|:---:|
-| <img src="assets/screenshots/issue-queue.png" width="220"> | <img src="assets/screenshots/csv-import.png" width="220"> |
-
+| <img src="assets/screenshots/issue-queue.png" width="220"> | <img src="assets/screenshots/user-approval.png" width="220"> | <img src="assets/screenshots/csv-import.png" width="220"> |
 
 -----
 
