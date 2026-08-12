@@ -124,6 +124,6 @@ This project was developed as a **graduation project** for the Bachelor of Engin
 
 ## 👤 Author
 
-**Rukhub**
+**Sutthamet**
 
 - GitHub: [@Rukhub](https://github.com/Rukhub)
